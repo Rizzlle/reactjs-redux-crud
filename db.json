@@ -1,0 +1,74 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "hariyanto ganteng",
+            "address": "Samarinda",
+            "age": 28,
+            "phone": "089693712088"
+        },
+        {
+            "id": 2,
+            "name": "bari",
+            "address": "Samarinda",
+            "age": 28,
+            "phone": "089693712088"
+        },
+        {
+            "id": 3,
+            "name": "Ajis",
+            "address": "Samarinda",
+            "age": 28,
+            "phone": "089693712088"
+        },
+        {
+            "id": 4,
+            "name": "hariyanto",
+            "address": "Samarinda",
+            "age": 28,
+            "phone": "089693712088"
+        },
+        {
+            "id": 5,
+            "name": "bari",
+            "address": "Samarinda",
+            "age": 28,
+            "phone": "089693712088"
+        },
+        {
+            "id": 6,
+            "name": "Ajis",
+            "address": "Samarinda",
+            "age": 28,
+            "phone": "089693712088"
+        },
+        {
+            "id": 7,
+            "name": "hariyanto",
+            "address": "Samarinda",
+            "age": 28,
+            "phone": "089693712088"
+        },
+        {
+            "id": 8,
+            "name": "bari",
+            "address": "Samarinda",
+            "age": 28,
+            "phone": "089693712088"
+        },
+        {
+            "id": 9,
+            "name": "Ajis",
+            "address": "Samarinda",
+            "age": 28,
+            "phone": "089693712088"
+        },
+        {
+            "id": 10,
+            "name": "Ajis",
+            "address": "Samarinda",
+            "age": 28,
+            "phone": "089693712088"
+        }
+    ]
+}
